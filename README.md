@@ -1,1 +1,1 @@
-Se creó un repositorio en GitHub llamado PROJECT. Se inicializó con un archivo README y se subió una imagen de prueba.
+Para modificar el repositorio, editamos el archivo README.md agregando texto de prueba y guardamos los cambios mediante un commit en GitHub
